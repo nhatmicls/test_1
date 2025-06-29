@@ -1,5 +1,11 @@
 #include <iostream>
 
+void testFunction()
+{
+    // This function is a placeholder for testing purposes.
+    // It currently does not perform any operations.
+}
+
 void main()
 {
     // This is a simple C++ program that prints "Hello, World!" to the console.
